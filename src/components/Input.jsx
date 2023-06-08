@@ -1,1 +1,1 @@
-import cn from "classnamesg"
+import cn from "classnames"
